@@ -1,1 +1,4 @@
-tele fos
+tele
+fos
+-a
+
